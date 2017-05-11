@@ -1,0 +1,3 @@
+function fizzbuzz() {
+	$(":submit").click
+}
