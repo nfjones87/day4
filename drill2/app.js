@@ -32,8 +32,8 @@ function fizzbuzz() {
 		
 		console.log($('div.js-results'));
 		$('div.js-results').append(returnVal); 
-	}
-}
+	});
+};
 
 $(function () {
 	fizzbuzz();
